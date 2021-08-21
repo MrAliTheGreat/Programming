@@ -1,0 +1,11 @@
+C:\Users\htaghaddos\Desktop\Test2\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\bin\Debug\ConsoleApplicationPrimeFunction.exe
+C:\Users\htaghaddos\Desktop\Test2\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\bin\Debug\ConsoleApplicationPrimeFunction.pdb
+C:\Users\htaghaddos\Desktop\Test2\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\bin\Debug\ConsoleApplicationPrimeFunction.xml
+C:\Users\htaghaddos\Desktop\Test2\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\obj\x86\Debug\ConsoleApplicationPrimeFunction.Resources.resources
+C:\Users\htaghaddos\Desktop\Test2\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\obj\x86\Debug\ConsoleApplicationPrimeFunction.vbproj.GenerateResource.Cache
+C:\Users\htaghaddos\Desktop\Test2\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\obj\x86\Debug\ConsoleApplicationPrimeFunction.exe
+C:\Users\htaghaddos\Desktop\Test2\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\obj\x86\Debug\ConsoleApplicationPrimeFunction.xml
+C:\Users\htaghaddos\Desktop\Test2\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\obj\x86\Debug\ConsoleApplicationPrimeFunction.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab3\Test7\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\obj\x86\Debug\ConsoleApplicationPrimeFunction.exe
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab3\Test7\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\obj\x86\Debug\ConsoleApplicationPrimeFunction.xml
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab3\Test7\ConsoleApplicationPrimeFunction\ConsoleApplicationPrimeFunction\obj\x86\Debug\ConsoleApplicationPrimeFunction.pdb

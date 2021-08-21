@@ -1,0 +1,11 @@
+C:\Users\htaghaddos\Desktop\Test10\ConsoleApplicationArray\bin\Debug\ConsoleApplicationArray.exe
+C:\Users\htaghaddos\Desktop\Test10\ConsoleApplicationArray\bin\Debug\ConsoleApplicationArray.pdb
+C:\Users\htaghaddos\Desktop\Test10\ConsoleApplicationArray\bin\Debug\ConsoleApplicationArray.xml
+C:\Users\htaghaddos\Desktop\Test10\ConsoleApplicationArray\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\htaghaddos\Desktop\Test10\ConsoleApplicationArray\obj\x86\Debug\ConsoleApplicationArray.vbproj.GenerateResource.Cache
+C:\Users\htaghaddos\Desktop\Test10\ConsoleApplicationArray\obj\x86\Debug\ConsoleApplicationArray.exe
+C:\Users\htaghaddos\Desktop\Test10\ConsoleApplicationArray\obj\x86\Debug\ConsoleApplicationArray.xml
+C:\Users\htaghaddos\Desktop\Test10\ConsoleApplicationArray\obj\x86\Debug\ConsoleApplicationArray.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab4\Test10\ConsoleApplicationArray\obj\x86\Debug\ConsoleApplicationArray.exe
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab4\Test10\ConsoleApplicationArray\obj\x86\Debug\ConsoleApplicationArray.xml
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab4\Test10\ConsoleApplicationArray\obj\x86\Debug\ConsoleApplicationArray.pdb

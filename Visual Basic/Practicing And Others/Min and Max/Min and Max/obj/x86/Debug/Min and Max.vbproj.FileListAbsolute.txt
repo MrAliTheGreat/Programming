@@ -1,0 +1,10 @@
+C:\Users\810296196\Desktop\Min and Max\Min and Max\bin\Debug\Min and Max.exe
+C:\Users\810296196\Desktop\Min and Max\Min and Max\bin\Debug\Min and Max.pdb
+C:\Users\810296196\Desktop\Min and Max\Min and Max\bin\Debug\Min and Max.xml
+C:\Users\810296196\Desktop\Min and Max\Min and Max\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\810296196\Desktop\Min and Max\Min and Max\obj\x86\Debug\Min_and_Max.Resources.resources
+C:\Users\810296196\Desktop\Min and Max\Min and Max\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\810296196\Desktop\Min and Max\Min and Max\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\810296196\Desktop\Min and Max\Min and Max\obj\x86\Debug\Min and Max.exe
+C:\Users\810296196\Desktop\Min and Max\Min and Max\obj\x86\Debug\Min and Max.xml
+C:\Users\810296196\Desktop\Min and Max\Min and Max\obj\x86\Debug\Min and Max.pdb

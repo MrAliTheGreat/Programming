@@ -1,0 +1,13 @@
+C:\Users\rasou\Desktop\Varoon Kalame\Varoon Kalame\bin\Debug\Varoon Kalame.exe.config
+C:\Users\rasou\Desktop\Varoon Kalame\Varoon Kalame\bin\Debug\Varoon Kalame.exe
+C:\Users\rasou\Desktop\Varoon Kalame\Varoon Kalame\bin\Debug\Varoon Kalame.pdb
+C:\Users\rasou\Desktop\Varoon Kalame\Varoon Kalame\bin\Debug\Varoon Kalame.xml
+C:\Users\rasou\Desktop\Varoon Kalame\Varoon Kalame\obj\Debug\Varoon_Kalame.Resources.resources
+C:\Users\rasou\Desktop\Varoon Kalame\Varoon Kalame\obj\Debug\Varoon Kalame.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\Varoon Kalame\Varoon Kalame\obj\Debug\Varoon Kalame.exe
+C:\Users\rasou\Desktop\Varoon Kalame\Varoon Kalame\obj\Debug\Varoon Kalame.xml
+C:\Users\rasou\Desktop\Varoon Kalame\Varoon Kalame\obj\Debug\Varoon Kalame.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\My Homework\Zip\Varoon Kalame\Varoon Kalame\bin\Debug\Varoon Kalame.exe.config
+C:\Users\rasou\Desktop\University\Computer Programming\My Homework\Zip\Varoon Kalame\Varoon Kalame\obj\Debug\Varoon Kalame.exe
+C:\Users\rasou\Desktop\University\Computer Programming\My Homework\Zip\Varoon Kalame\Varoon Kalame\obj\Debug\Varoon Kalame.xml
+C:\Users\rasou\Desktop\University\Computer Programming\My Homework\Zip\Varoon Kalame\Varoon Kalame\obj\Debug\Varoon Kalame.pdb

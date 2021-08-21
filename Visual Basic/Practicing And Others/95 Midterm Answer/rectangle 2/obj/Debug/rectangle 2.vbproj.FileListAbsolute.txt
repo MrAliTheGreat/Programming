@@ -1,0 +1,20 @@
+C:\Users\rasou\Desktop\rectangle 2\rectangle 2\bin\Debug\rectangle 2.exe.config
+C:\Users\rasou\Desktop\rectangle 2\rectangle 2\bin\Debug\rectangle 2.exe
+C:\Users\rasou\Desktop\rectangle 2\rectangle 2\bin\Debug\rectangle 2.pdb
+C:\Users\rasou\Desktop\rectangle 2\rectangle 2\bin\Debug\rectangle 2.xml
+C:\Users\rasou\Desktop\rectangle 2\rectangle 2\obj\Debug\rectangle_2.Form1.resources
+C:\Users\rasou\Desktop\rectangle 2\rectangle 2\obj\Debug\rectangle_2.Resources.resources
+C:\Users\rasou\Desktop\rectangle 2\rectangle 2\obj\Debug\rectangle 2.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\rectangle 2\rectangle 2\obj\Debug\rectangle 2.exe
+C:\Users\rasou\Desktop\rectangle 2\rectangle 2\obj\Debug\rectangle 2.xml
+C:\Users\rasou\Desktop\rectangle 2\rectangle 2\obj\Debug\rectangle 2.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\My Projects\95 Midterm Answer\rectangle 2\bin\Debug\rectangle 2.exe.config
+C:\Users\rasou\Desktop\University\Computer Programming\My Projects\95 Midterm Answer\rectangle 2\obj\Debug\rectangle 2.exe
+C:\Users\rasou\Desktop\University\Computer Programming\My Projects\95 Midterm Answer\rectangle 2\obj\Debug\rectangle 2.xml
+C:\Users\rasou\Desktop\University\Computer Programming\My Projects\95 Midterm Answer\rectangle 2\obj\Debug\rectangle 2.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\My Projects\95 Midterm Answer\rectangle 2\bin\Debug\rectangle 2.exe
+C:\Users\rasou\Desktop\University\Computer Programming\My Projects\95 Midterm Answer\rectangle 2\bin\Debug\rectangle 2.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\My Projects\95 Midterm Answer\rectangle 2\bin\Debug\rectangle 2.xml
+C:\Users\rasou\Desktop\University\Computer Programming\My Projects\95 Midterm Answer\rectangle 2\obj\Debug\rectangle_2.Form1.resources
+C:\Users\rasou\Desktop\University\Computer Programming\My Projects\95 Midterm Answer\rectangle 2\obj\Debug\rectangle_2.Resources.resources
+C:\Users\rasou\Desktop\University\Computer Programming\My Projects\95 Midterm Answer\rectangle 2\obj\Debug\rectangle 2.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+c:\users\hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\bin\Debug\Test Paret windows.exe.config
+c:\users\hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\bin\Debug\Test Paret windows.exe
+c:\users\hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\bin\Debug\Test Paret windows.pdb
+c:\users\hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test Paret windows.csprojResolveAssemblyReference.cache
+c:\users\hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test_Paret_windows.Form_two.resources
+c:\users\hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test_Paret_windows.Form_one.resources
+c:\users\hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test_Paret_windows.Properties.Resources.resources
+c:\users\hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test Paret windows.csproj.GenerateResource.Cache
+c:\users\hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test Paret windows.exe
+c:\users\hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test Paret windows.pdb

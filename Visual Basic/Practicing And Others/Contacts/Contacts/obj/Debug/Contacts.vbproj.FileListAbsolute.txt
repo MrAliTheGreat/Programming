@@ -1,0 +1,12 @@
+C:\Users\rasou\Desktop\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\rasou\Desktop\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\rasou\Desktop\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\rasou\Desktop\Contacts\Contacts\bin\Debug\Contacts.xml
+C:\Users\rasou\Desktop\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\rasou\Desktop\Contacts\Contacts\obj\Debug\Contacts.Form2.resources
+C:\Users\rasou\Desktop\Contacts\Contacts\obj\Debug\Contacts.Form3.resources
+C:\Users\rasou\Desktop\Contacts\Contacts\obj\Debug\Contacts.Resources.resources
+C:\Users\rasou\Desktop\Contacts\Contacts\obj\Debug\Contacts.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\rasou\Desktop\Contacts\Contacts\obj\Debug\Contacts.xml
+C:\Users\rasou\Desktop\Contacts\Contacts\obj\Debug\Contacts.pdb

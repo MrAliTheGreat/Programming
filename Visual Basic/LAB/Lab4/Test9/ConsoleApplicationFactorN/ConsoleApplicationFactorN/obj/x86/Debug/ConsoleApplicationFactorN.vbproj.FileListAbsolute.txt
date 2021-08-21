@@ -1,0 +1,19 @@
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationFactorN\bin\Debug\ConsoleApplicationFactorN.exe
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationFactorN\bin\Debug\ConsoleApplicationFactorN.pdb
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationFactorN\bin\Debug\ConsoleApplicationFactorN.xml
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.Resources.resources
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.vbproj.GenerateResource.Cache
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.exe
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.xml
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.pdb
+C:\Users\htaghaddos\Desktop\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.exe
+C:\Users\htaghaddos\Desktop\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.xml
+C:\Users\htaghaddos\Desktop\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.pdb
+C:\Users\htaghaddos\Desktop\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\bin\Debug\ConsoleApplicationFactorN.exe
+C:\Users\htaghaddos\Desktop\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\bin\Debug\ConsoleApplicationFactorN.pdb
+C:\Users\htaghaddos\Desktop\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\bin\Debug\ConsoleApplicationFactorN.xml
+C:\Users\htaghaddos\Desktop\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.Resources.resources
+C:\Users\htaghaddos\Desktop\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab4\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.exe
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab4\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.xml
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab4\Test9\ConsoleApplicationFactorN\ConsoleApplicationFactorN\obj\x86\Debug\ConsoleApplicationFactorN.pdb

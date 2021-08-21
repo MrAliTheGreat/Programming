@@ -1,0 +1,11 @@
+C:\Users\htaghaddos\Desktop\Test3\ConsoleApplicationOddTet\ConsoleApplicationOddTet\bin\Debug\ConsoleApplicationOddTet.exe
+C:\Users\htaghaddos\Desktop\Test3\ConsoleApplicationOddTet\ConsoleApplicationOddTet\bin\Debug\ConsoleApplicationOddTet.pdb
+C:\Users\htaghaddos\Desktop\Test3\ConsoleApplicationOddTet\ConsoleApplicationOddTet\bin\Debug\ConsoleApplicationOddTet.xml
+C:\Users\htaghaddos\Desktop\Test3\ConsoleApplicationOddTet\ConsoleApplicationOddTet\obj\x86\Debug\ConsoleApplicationOddTet.Resources.resources
+C:\Users\htaghaddos\Desktop\Test3\ConsoleApplicationOddTet\ConsoleApplicationOddTet\obj\x86\Debug\ConsoleApplicationOddTet.vbproj.GenerateResource.Cache
+C:\Users\htaghaddos\Desktop\Test3\ConsoleApplicationOddTet\ConsoleApplicationOddTet\obj\x86\Debug\ConsoleApplicationOddTet.exe
+C:\Users\htaghaddos\Desktop\Test3\ConsoleApplicationOddTet\ConsoleApplicationOddTet\obj\x86\Debug\ConsoleApplicationOddTet.xml
+C:\Users\htaghaddos\Desktop\Test3\ConsoleApplicationOddTet\ConsoleApplicationOddTet\obj\x86\Debug\ConsoleApplicationOddTet.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab2\Test4\ConsoleApplicationOddTet\ConsoleApplicationOddTet\obj\x86\Debug\ConsoleApplicationOddTet.exe
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab2\Test4\ConsoleApplicationOddTet\ConsoleApplicationOddTet\obj\x86\Debug\ConsoleApplicationOddTet.xml
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab2\Test4\ConsoleApplicationOddTet\ConsoleApplicationOddTet\obj\x86\Debug\ConsoleApplicationOddTet.pdb

@@ -1,0 +1,10 @@
+C:\Users\rasou\Desktop\TextChange Practice\TextChange Practice\bin\Debug\TextChange Practice.exe.config
+C:\Users\rasou\Desktop\TextChange Practice\TextChange Practice\bin\Debug\TextChange Practice.exe
+C:\Users\rasou\Desktop\TextChange Practice\TextChange Practice\bin\Debug\TextChange Practice.pdb
+C:\Users\rasou\Desktop\TextChange Practice\TextChange Practice\bin\Debug\TextChange Practice.xml
+C:\Users\rasou\Desktop\TextChange Practice\TextChange Practice\obj\Debug\TextChange_Practice.Form1.resources
+C:\Users\rasou\Desktop\TextChange Practice\TextChange Practice\obj\Debug\TextChange_Practice.Resources.resources
+C:\Users\rasou\Desktop\TextChange Practice\TextChange Practice\obj\Debug\TextChange Practice.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\TextChange Practice\TextChange Practice\obj\Debug\TextChange Practice.exe
+C:\Users\rasou\Desktop\TextChange Practice\TextChange Practice\obj\Debug\TextChange Practice.xml
+C:\Users\rasou\Desktop\TextChange Practice\TextChange Practice\obj\Debug\TextChange Practice.pdb

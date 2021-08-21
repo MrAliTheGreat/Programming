@@ -1,0 +1,22 @@
+C:\Users\Hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\bin\Debug\Test Parent windows.exe.config
+C:\Users\Hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\bin\Debug\Test Parent windows.exe
+C:\Users\Hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\bin\Debug\Test Parent windows.pdb
+C:\Users\Hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test_Paret_windows.Form_two.resources
+C:\Users\Hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test_Paret_windows.Form_one.resources
+C:\Users\Hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test_Parent_windows.Properties.Resources.resources
+C:\Users\Hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test Parent windows.csproj.GenerateResource.Cache
+C:\Users\Hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test Parent windows.exe
+C:\Users\Hossein\documents\visual studio 2013\Projects\Test Paret windows\Test Paret windows\obj\Debug\Test Parent windows.pdb
+C:\Users\Hossein\Documents\Visual Studio 2013\Projects\Test Parent windows\Test Parent windows\bin\Debug\Test Parent windows.exe.config
+C:\Users\Hossein\Documents\Visual Studio 2013\Projects\Test Parent windows\Test Parent windows\obj\Debug\Test Parent windows.exe
+C:\Users\Hossein\Documents\Visual Studio 2013\Projects\Test Parent windows\Test Parent windows\obj\Debug\Test Parent windows.pdb
+C:\Users\rasou\Desktop\Test Parent windows\Test Parent windows\bin\Debug\Test Parent windows.exe.config
+C:\Users\rasou\Desktop\Test Parent windows\Test Parent windows\obj\Debug\Test Parent windows.exe
+C:\Users\rasou\Desktop\Test Parent windows\Test Parent windows\obj\Debug\Test Parent windows.pdb
+C:\Users\rasou\Desktop\Test Parent windows\Test Parent windows\bin\Debug\Test Parent windows.exe
+C:\Users\rasou\Desktop\Test Parent windows\Test Parent windows\bin\Debug\Test Parent windows.pdb
+C:\Users\rasou\Desktop\Test Parent windows\Test Parent windows\obj\Debug\Test Parent windows.csprojResolveAssemblyReference.cache
+C:\Users\rasou\Desktop\Test Parent windows\Test Parent windows\obj\Debug\Test_Paret_windows.Form_two.resources
+C:\Users\rasou\Desktop\Test Parent windows\Test Parent windows\obj\Debug\Test_Paret_windows.Form_one.resources
+C:\Users\rasou\Desktop\Test Parent windows\Test Parent windows\obj\Debug\Test_Parent_windows.Properties.Resources.resources
+C:\Users\rasou\Desktop\Test Parent windows\Test Parent windows\obj\Debug\Test Parent windows.csproj.GenerateResource.Cache

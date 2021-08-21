@@ -1,0 +1,13 @@
+C:\Users\rasou\Desktop\Amaliyate Amari\Amaliyate Amari\bin\Debug\Amaliyate Amari.exe.config
+C:\Users\rasou\Desktop\Amaliyate Amari\Amaliyate Amari\bin\Debug\Amaliyate Amari.exe
+C:\Users\rasou\Desktop\Amaliyate Amari\Amaliyate Amari\bin\Debug\Amaliyate Amari.pdb
+C:\Users\rasou\Desktop\Amaliyate Amari\Amaliyate Amari\bin\Debug\Amaliyate Amari.xml
+C:\Users\rasou\Desktop\Amaliyate Amari\Amaliyate Amari\obj\Debug\Amaliyate_Amari.Resources.resources
+C:\Users\rasou\Desktop\Amaliyate Amari\Amaliyate Amari\obj\Debug\Amaliyate Amari.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\Amaliyate Amari\Amaliyate Amari\obj\Debug\Amaliyate Amari.exe
+C:\Users\rasou\Desktop\Amaliyate Amari\Amaliyate Amari\obj\Debug\Amaliyate Amari.xml
+C:\Users\rasou\Desktop\Amaliyate Amari\Amaliyate Amari\obj\Debug\Amaliyate Amari.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\My Homework\Zip\Amaliyate Amari\Amaliyate Amari\bin\Debug\Amaliyate Amari.exe.config
+C:\Users\rasou\Desktop\University\Computer Programming\My Homework\Zip\Amaliyate Amari\Amaliyate Amari\obj\Debug\Amaliyate Amari.exe
+C:\Users\rasou\Desktop\University\Computer Programming\My Homework\Zip\Amaliyate Amari\Amaliyate Amari\obj\Debug\Amaliyate Amari.xml
+C:\Users\rasou\Desktop\University\Computer Programming\My Homework\Zip\Amaliyate Amari\Amaliyate Amari\obj\Debug\Amaliyate Amari.pdb

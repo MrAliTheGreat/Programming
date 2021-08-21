@@ -1,0 +1,11 @@
+C:\Users\htaghaddos\Desktop\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\bin\Debug\ConsoleApplicationList.exe
+C:\Users\htaghaddos\Desktop\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\bin\Debug\ConsoleApplicationList.pdb
+C:\Users\htaghaddos\Desktop\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\bin\Debug\ConsoleApplicationList.xml
+C:\Users\htaghaddos\Desktop\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\htaghaddos\Desktop\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\obj\x86\Debug\ConsoleApplicationList.vbproj.GenerateResource.Cache
+C:\Users\htaghaddos\Desktop\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\obj\x86\Debug\ConsoleApplicationList.exe
+C:\Users\htaghaddos\Desktop\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\obj\x86\Debug\ConsoleApplicationList.xml
+C:\Users\htaghaddos\Desktop\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\obj\x86\Debug\ConsoleApplicationList.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\obj\x86\Debug\ConsoleApplicationList.exe
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\obj\x86\Debug\ConsoleApplicationList.xml
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab5\Test12\ConsoleApplicationList\ConsoleApplicationList\obj\x86\Debug\ConsoleApplicationList.pdb

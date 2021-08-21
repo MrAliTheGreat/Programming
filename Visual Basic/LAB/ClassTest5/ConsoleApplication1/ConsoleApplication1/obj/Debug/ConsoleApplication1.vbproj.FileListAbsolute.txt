@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\ClassTest5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user\Desktop\ClassTest5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\ClassTest5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\Desktop\ClassTest5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\user\Desktop\ClassTest5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\user\Desktop\ClassTest5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\ClassTest5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user\Desktop\ClassTest5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\user\Desktop\ClassTest5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\ClassTest5\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\ClassTest5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\ClassTest5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\ClassTest5\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

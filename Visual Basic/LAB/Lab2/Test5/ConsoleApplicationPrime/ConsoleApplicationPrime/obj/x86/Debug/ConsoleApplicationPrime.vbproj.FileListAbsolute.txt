@@ -1,0 +1,19 @@
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationPrime\bin\Debug\ConsoleApplicationPrime.exe
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationPrime\bin\Debug\ConsoleApplicationPrime.pdb
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationPrime\bin\Debug\ConsoleApplicationPrime.xml
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.Resources.resources
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.vbproj.GenerateResource.Cache
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.exe
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.xml
+C:\Users\htaghaddos\AppData\Local\Temporary Projects\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.pdb
+C:\Users\htaghaddos\Desktop\Test4\ConsoleApplicationPrime\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.exe
+C:\Users\htaghaddos\Desktop\Test4\ConsoleApplicationPrime\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.xml
+C:\Users\htaghaddos\Desktop\Test4\ConsoleApplicationPrime\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.pdb
+C:\Users\htaghaddos\Desktop\Test4\ConsoleApplicationPrime\ConsoleApplicationPrime\bin\Debug\ConsoleApplicationPrime.exe
+C:\Users\htaghaddos\Desktop\Test4\ConsoleApplicationPrime\ConsoleApplicationPrime\bin\Debug\ConsoleApplicationPrime.pdb
+C:\Users\htaghaddos\Desktop\Test4\ConsoleApplicationPrime\ConsoleApplicationPrime\bin\Debug\ConsoleApplicationPrime.xml
+C:\Users\htaghaddos\Desktop\Test4\ConsoleApplicationPrime\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.Resources.resources
+C:\Users\htaghaddos\Desktop\Test4\ConsoleApplicationPrime\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab2\Test5\ConsoleApplicationPrime\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.exe
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab2\Test5\ConsoleApplicationPrime\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.xml
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab2\Test5\ConsoleApplicationPrime\ConsoleApplicationPrime\obj\x86\Debug\ConsoleApplicationPrime.pdb

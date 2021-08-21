@@ -1,0 +1,10 @@
+C:\Users\class\Desktop\ConsoleApplication IsPrime\ConsoleApplication IsPrime\bin\Debug\ConsoleApplication IsPrime.exe
+C:\Users\class\Desktop\ConsoleApplication IsPrime\ConsoleApplication IsPrime\bin\Debug\ConsoleApplication IsPrime.pdb
+C:\Users\class\Desktop\ConsoleApplication IsPrime\ConsoleApplication IsPrime\bin\Debug\ConsoleApplication IsPrime.xml
+C:\Users\class\Desktop\ConsoleApplication IsPrime\ConsoleApplication IsPrime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\class\Desktop\ConsoleApplication IsPrime\ConsoleApplication IsPrime\obj\x86\Debug\ConsoleApplication_IsPrime.Resources.resources
+C:\Users\class\Desktop\ConsoleApplication IsPrime\ConsoleApplication IsPrime\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\class\Desktop\ConsoleApplication IsPrime\ConsoleApplication IsPrime\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\class\Desktop\ConsoleApplication IsPrime\ConsoleApplication IsPrime\obj\x86\Debug\ConsoleApplication IsPrime.exe
+C:\Users\class\Desktop\ConsoleApplication IsPrime\ConsoleApplication IsPrime\obj\x86\Debug\ConsoleApplication IsPrime.xml
+C:\Users\class\Desktop\ConsoleApplication IsPrime\ConsoleApplication IsPrime\obj\x86\Debug\ConsoleApplication IsPrime.pdb

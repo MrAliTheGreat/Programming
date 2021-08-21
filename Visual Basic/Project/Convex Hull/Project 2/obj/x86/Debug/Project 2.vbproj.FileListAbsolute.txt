@@ -1,0 +1,139 @@
+C:\Users\Asus\Desktop\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\Asus\Desktop\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\Asus\Desktop\Project 2\Project 2\bin\Debug\Project 2.xml
+C:\Users\Asus\Desktop\Project 2\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Project 2\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Asus\Desktop\Project 2\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Asus\Desktop\Project 2\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Project 2\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\Asus\Desktop\Project 2\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\Asus\Desktop\Project 2\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\Project\Project 2\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\rasou\Desktop\University\Computer Programming\Project\Project 2\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\rasou\Desktop\University\Computer Programming\Project\Project 2\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\Project 2\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\rasou\Desktop\Project 2\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\rasou\Desktop\Project 2\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\rasou\Desktop\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\Project 2\Project 2\bin\Debug\Project 2.xml
+C:\Users\rasou\Desktop\Project 2\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\rasou\Desktop\Project 2\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\rasou\Desktop\Project 2\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\rasou\Desktop\Project 2\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\Project 2 Part 1 Finished\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\rasou\Desktop\Project 2 Part 1 Finished\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\rasou\Desktop\Project 2 Part 1 Finished\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\Project 2 Part 1 Finished\Project 2\bin\Debug\Project 2.exe
+C:\Users\rasou\Desktop\Project 2 Part 1 Finished\Project 2\bin\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\Project 2 Part 1 Finished\Project 2\bin\Debug\Project 2.xml
+C:\Users\rasou\Desktop\Project 2 Part 1 Finished\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\rasou\Desktop\Project 2 Part 1 Finished\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\rasou\Desktop\Project 2 Part 1 Finished\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\rasou\Desktop\Project 2 Part 1 Finished\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\test\Desktop\Project 2 Finished But Have Bugs\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\test\Desktop\Project 2 Finished But Have Bugs\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\test\Desktop\Project 2 Finished But Have Bugs\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\test\Desktop\Project 2 Finished But Have Bugs\Project 2\bin\Debug\Project 2.exe
+C:\Users\test\Desktop\Project 2 Finished But Have Bugs\Project 2\bin\Debug\Project 2.pdb
+C:\Users\test\Desktop\Project 2 Finished But Have Bugs\Project 2\bin\Debug\Project 2.xml
+C:\Users\test\Desktop\Project 2 Finished But Have Bugs\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\Project 2 Finished But Have Bugs\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\test\Desktop\Project 2 Finished But Have Bugs\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\test\Desktop\Project 2 Finished But Have Bugs\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\test\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\test\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\test\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\test\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\bin\Debug\Project 2.exe
+C:\Users\test\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\bin\Debug\Project 2.pdb
+C:\Users\test\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\bin\Debug\Project 2.xml
+C:\Users\test\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\test\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\test\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\810296190\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\810296190\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\810296190\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\810296190\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\bin\Debug\Project 2.exe
+C:\Users\810296190\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\bin\Debug\Project 2.pdb
+C:\Users\810296190\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\bin\Debug\Project 2.xml
+C:\Users\810296190\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\810296190\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\810296190\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\810296190\Desktop\Project 2 Finished But Part 2 Has Bugs\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\810296190\Desktop\Project 2 Finished But Need Checking\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\810296190\Desktop\Project 2 Finished But Need Checking\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\810296190\Desktop\Project 2 Finished But Need Checking\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\810296190\Desktop\Project 2 Finished But Need Checking\Project 2\bin\Debug\Project 2.exe
+C:\Users\810296190\Desktop\Project 2 Finished But Need Checking\Project 2\bin\Debug\Project 2.pdb
+C:\Users\810296190\Desktop\Project 2 Finished But Need Checking\Project 2\bin\Debug\Project 2.xml
+C:\Users\810296190\Desktop\Project 2 Finished But Need Checking\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\810296190\Desktop\Project 2 Finished But Need Checking\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\810296190\Desktop\Project 2 Finished But Need Checking\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\810296190\Desktop\Project 2 Finished But Need Checking\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\810296190\Desktop\Project 2 Finished But Needs Beauty\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\810296190\Desktop\Project 2 Finished But Needs Beauty\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\810296190\Desktop\Project 2 Finished But Needs Beauty\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\810296190\Desktop\Project 2 Finished But Needs Beauty\Project 2\bin\Debug\Project 2.exe
+C:\Users\810296190\Desktop\Project 2 Finished But Needs Beauty\Project 2\bin\Debug\Project 2.pdb
+C:\Users\810296190\Desktop\Project 2 Finished But Needs Beauty\Project 2\bin\Debug\Project 2.xml
+C:\Users\810296190\Desktop\Project 2 Finished But Needs Beauty\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\810296190\Desktop\Project 2 Finished But Needs Beauty\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\810296190\Desktop\Project 2 Finished But Needs Beauty\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\810296190\Desktop\Project 2 Finished But Needs Beauty\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+E:\Project 2 Finished But Needs Beauty\Project 2\obj\x86\Debug\Project 2.exe
+E:\Project 2 Finished But Needs Beauty\Project 2\obj\x86\Debug\Project 2.xml
+E:\Project 2 Finished But Needs Beauty\Project 2\obj\x86\Debug\Project 2.pdb
+E:\Project 2 Final\Project 2\obj\x86\Debug\Project 2.exe
+E:\Project 2 Final\Project 2\obj\x86\Debug\Project 2.xml
+E:\Project 2 Final\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\bin\Debug\Project 2.exe
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\bin\Debug\Project 2.pdb
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\bin\Debug\Project 2.xml
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\810296190\Desktop\Project 2 Final\Project 2\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\Project 2 Final Better\Project 2\obj\x86\Debug\Project 2.exe
+E:\Project 2 Final Better\Project 2\obj\x86\Debug\Project 2.xml
+E:\Project 2 Final Better\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\bin\Debug\Project 2.exe
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\bin\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\bin\Debug\Project 2.xml
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\rasou\Desktop\Project 2 Final Better\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\obj\x86\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\bin\Debug\Project 2.exe
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\bin\Debug\Project 2.pdb
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\bin\Debug\Project 2.xml
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\rasou\Desktop\Project 2 Final With Coordinates\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+D:\Convex Hull\Project 2\obj\x86\Debug\Project 2.exe
+D:\Convex Hull\Project 2\obj\x86\Debug\Project 2.xml
+D:\Convex Hull\Project 2\obj\x86\Debug\Project 2.pdb
+D:\Convex Hull\Project 2\bin\Debug\Project 2.exe
+D:\Convex Hull\Project 2\bin\Debug\Project 2.pdb
+D:\Convex Hull\Project 2\bin\Debug\Project 2.xml
+D:\Convex Hull\Project 2\obj\x86\Debug\Project 2.vbprojResolveAssemblyReference.cache
+D:\Convex Hull\Project 2\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Convex Hull\Project 2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Convex Hull\Project 2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Convex Hull\Project 2\obj\x86\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\Convex Hull\Project 2\obj\x86\Debug\Project 2.exe
+C:\Users\rasou\Desktop\Convex Hull\Project 2\obj\x86\Debug\Project 2.xml
+C:\Users\rasou\Desktop\Convex Hull\Project 2\obj\x86\Debug\Project 2.pdb

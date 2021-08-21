@@ -1,0 +1,11 @@
+C:\Users\htaghaddos\Desktop\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\bin\Debug\ConsoleApplicationSumFactor.exe
+C:\Users\htaghaddos\Desktop\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\bin\Debug\ConsoleApplicationSumFactor.pdb
+C:\Users\htaghaddos\Desktop\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\bin\Debug\ConsoleApplicationSumFactor.xml
+C:\Users\htaghaddos\Desktop\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\obj\x86\Debug\ConsoleApplicationSumFactor.Resources.resources
+C:\Users\htaghaddos\Desktop\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\obj\x86\Debug\ConsoleApplicationSumFactor.vbproj.GenerateResource.Cache
+C:\Users\htaghaddos\Desktop\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\obj\x86\Debug\ConsoleApplicationSumFactor.exe
+C:\Users\htaghaddos\Desktop\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\obj\x86\Debug\ConsoleApplicationSumFactor.xml
+C:\Users\htaghaddos\Desktop\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\obj\x86\Debug\ConsoleApplicationSumFactor.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\obj\x86\Debug\ConsoleApplicationSumFactor.exe
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\obj\x86\Debug\ConsoleApplicationSumFactor.xml
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\Lab5\Test11\ConsoleApplicationSumFactor\ConsoleApplicationSumFactor\obj\x86\Debug\ConsoleApplicationSumFactor.pdb

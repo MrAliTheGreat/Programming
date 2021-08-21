@@ -1,0 +1,13 @@
+C:\Users\rasou\Desktop\Hazfe Fasele\Hazfe Fasele\bin\Debug\Hazfe Fasele.exe.config
+C:\Users\rasou\Desktop\Hazfe Fasele\Hazfe Fasele\bin\Debug\Hazfe Fasele.exe
+C:\Users\rasou\Desktop\Hazfe Fasele\Hazfe Fasele\bin\Debug\Hazfe Fasele.pdb
+C:\Users\rasou\Desktop\Hazfe Fasele\Hazfe Fasele\bin\Debug\Hazfe Fasele.xml
+C:\Users\rasou\Desktop\Hazfe Fasele\Hazfe Fasele\obj\Debug\Hazfe_Fasele.Resources.resources
+C:\Users\rasou\Desktop\Hazfe Fasele\Hazfe Fasele\obj\Debug\Hazfe Fasele.vbproj.GenerateResource.Cache
+C:\Users\rasou\Desktop\Hazfe Fasele\Hazfe Fasele\obj\Debug\Hazfe Fasele.exe
+C:\Users\rasou\Desktop\Hazfe Fasele\Hazfe Fasele\obj\Debug\Hazfe Fasele.xml
+C:\Users\rasou\Desktop\Hazfe Fasele\Hazfe Fasele\obj\Debug\Hazfe Fasele.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\Visual Basic\Assignment\Assignment 2\Hazfe Fasele\Hazfe Fasele\bin\Debug\Hazfe Fasele.exe.config
+C:\Users\rasou\Desktop\University\Computer Programming\Visual Basic\Assignment\Assignment 2\Hazfe Fasele\Hazfe Fasele\obj\Debug\Hazfe Fasele.exe
+C:\Users\rasou\Desktop\University\Computer Programming\Visual Basic\Assignment\Assignment 2\Hazfe Fasele\Hazfe Fasele\obj\Debug\Hazfe Fasele.xml
+C:\Users\rasou\Desktop\University\Computer Programming\Visual Basic\Assignment\Assignment 2\Hazfe Fasele\Hazfe Fasele\obj\Debug\Hazfe Fasele.pdb

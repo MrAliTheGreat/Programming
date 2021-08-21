@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\bin\Debug\ConsoleApplicationFunction.exe.config
+C:\Users\user\Desktop\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\bin\Debug\ConsoleApplicationFunction.exe
+C:\Users\user\Desktop\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\bin\Debug\ConsoleApplicationFunction.pdb
+C:\Users\user\Desktop\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\bin\Debug\ConsoleApplicationFunction.xml
+C:\Users\user\Desktop\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\obj\Debug\ConsoleApplicationFunction.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\obj\Debug\ConsoleApplicationFunction.Resources.resources
+C:\Users\user\Desktop\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\obj\Debug\ConsoleApplicationFunction.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\obj\Debug\ConsoleApplicationFunction.exe
+C:\Users\user\Desktop\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\obj\Debug\ConsoleApplicationFunction.xml
+C:\Users\user\Desktop\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\obj\Debug\ConsoleApplicationFunction.pdb
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\bin\Debug\ConsoleApplicationFunction.exe.config
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\obj\Debug\ConsoleApplicationFunction.exe
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\obj\Debug\ConsoleApplicationFunction.xml
+C:\Users\rasou\Desktop\University\Computer Programming\LAB\ClassTest1\ConsoleApplicationFunction\ConsoleApplicationFunction\obj\Debug\ConsoleApplicationFunction.pdb
